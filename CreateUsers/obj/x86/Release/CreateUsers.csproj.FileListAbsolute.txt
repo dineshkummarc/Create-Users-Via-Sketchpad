@@ -1,0 +1,32 @@
+C:\Documents and Settings\DWAYNE\My Documents\Visual Studio 2010\Projects\CreateUsers\CreateUsers\bin\Release\CreateUsers.exe.config
+C:\Documents and Settings\DWAYNE\My Documents\Visual Studio 2010\Projects\CreateUsers\CreateUsers\bin\Release\CreateUsers.exe
+C:\Documents and Settings\DWAYNE\My Documents\Visual Studio 2010\Projects\CreateUsers\CreateUsers\bin\Release\CreateUsers.pdb
+C:\Documents and Settings\DWAYNE\My Documents\Visual Studio 2010\Projects\CreateUsers\CreateUsers\bin\Release\Castle.Core.dll
+C:\Documents and Settings\DWAYNE\My Documents\Visual Studio 2010\Projects\CreateUsers\CreateUsers\bin\Release\fit.dll
+C:\Documents and Settings\DWAYNE\My Documents\Visual Studio 2010\Projects\CreateUsers\CreateUsers\bin\Release\Ionic.Zip.Reduced.dll
+C:\Documents and Settings\DWAYNE\My Documents\Visual Studio 2010\Projects\CreateUsers\CreateUsers\bin\Release\Newtonsoft.Json.dll
+C:\Documents and Settings\DWAYNE\My Documents\Visual Studio 2010\Projects\CreateUsers\CreateUsers\bin\Release\WebDriver.dll
+C:\Documents and Settings\DWAYNE\My Documents\Visual Studio 2010\Projects\CreateUsers\CreateUsers\bin\Release\Webdriver.Support.dll
+C:\Documents and Settings\DWAYNE\My Documents\Visual Studio 2010\Projects\CreateUsers\CreateUsers\bin\Release\WebDriver.pdb
+C:\Documents and Settings\DWAYNE\My Documents\Visual Studio 2010\Projects\CreateUsers\CreateUsers\bin\Release\WebDriver.xml
+C:\Documents and Settings\DWAYNE\My Documents\Visual Studio 2010\Projects\CreateUsers\CreateUsers\bin\Release\Webdriver.Support.pdb
+C:\Documents and Settings\DWAYNE\My Documents\Visual Studio 2010\Projects\CreateUsers\CreateUsers\bin\Release\Webdriver.Support.xml
+C:\Documents and Settings\DWAYNE\My Documents\Visual Studio 2010\Projects\CreateUsers\CreateUsers\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\DWAYNE\My Documents\Visual Studio 2010\Projects\CreateUsers\CreateUsers\obj\x86\Release\CreateUsers.exe
+C:\Documents and Settings\DWAYNE\My Documents\Visual Studio 2010\Projects\CreateUsers\CreateUsers\obj\x86\Release\CreateUsers.pdb
+C:\work\create-users-via-sketchpad\CreateUsers\bin\Release\CreateUsers.exe.config
+C:\work\create-users-via-sketchpad\CreateUsers\obj\x86\Release\CreateUsers.exe
+C:\work\create-users-via-sketchpad\CreateUsers\obj\x86\Release\CreateUsers.pdb
+C:\work\create-users-via-sketchpad\CreateUsers\bin\Release\CreateUsers.exe
+C:\work\create-users-via-sketchpad\CreateUsers\bin\Release\CreateUsers.pdb
+C:\work\create-users-via-sketchpad\CreateUsers\bin\Release\Castle.Core.dll
+C:\work\create-users-via-sketchpad\CreateUsers\bin\Release\fit.dll
+C:\work\create-users-via-sketchpad\CreateUsers\bin\Release\Ionic.Zip.Reduced.dll
+C:\work\create-users-via-sketchpad\CreateUsers\bin\Release\Newtonsoft.Json.dll
+C:\work\create-users-via-sketchpad\CreateUsers\bin\Release\WebDriver.dll
+C:\work\create-users-via-sketchpad\CreateUsers\bin\Release\Webdriver.Support.dll
+C:\work\create-users-via-sketchpad\CreateUsers\bin\Release\WebDriver.pdb
+C:\work\create-users-via-sketchpad\CreateUsers\bin\Release\WebDriver.xml
+C:\work\create-users-via-sketchpad\CreateUsers\bin\Release\Webdriver.Support.pdb
+C:\work\create-users-via-sketchpad\CreateUsers\bin\Release\Webdriver.Support.xml
+C:\work\create-users-via-sketchpad\CreateUsers\obj\x86\Release\ResolveAssemblyReference.cache
