@@ -1,0 +1,19 @@
+Create Users Via Sketchpad is a small program that creates users via the sketchpad using WebDriver and outputs their OAuth token keys and token secrets to a csv file.
+
+This was created so it could be used to create users for load testing. JMeter can be set up to read these tokens from the csv file. For an example please refer to the SevenDigital.Api.LoadTest project
+
+This is not the most efficient way to get signed urls and was mainly for my edutainment, however it does the job. It does also rely on the accounts, sketchpad and API all being up and working. Graham suggested a much better of doing this using the API Wrapper Greg wrote which I will give a try when I have time.
+
+Please note that Firefox needs to be installed and environment paths, number of user etc can be set in the app.config file:
+
+Config values:
+
+Password = The password all created the users will get
+
+Users = How many users you want to create
+
+UsersEmailPrefix = The prefix given to each users email address, so for the below it would be "loadtestuser"{GUID}@7digital.com
+
+The rest are pretty much self explanatory
+
+Dwayne Dowding
